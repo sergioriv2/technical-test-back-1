@@ -1,4 +1,4 @@
-# 1.1. Prueba Técnica - Programador (Back-end)
+# 1. Prueba Técnica - Programador (Back-end)
 La siguiente es una prueba para evaluar a los postulantes a programador **Back-end**.
 
 ## INTRODUCCIÓN
